@@ -1,5 +1,5 @@
 {
-   "image": "mcr.microsoft.com/devcontainers/go",
+   "image": "mcr.microsoft.com/devcontainers/javascript-node",
    "features": {
                 "ghcr.io/duduribeiro/devcontainer-features/neovim:1": {
                    "version": "stable"},
